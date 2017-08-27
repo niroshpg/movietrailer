@@ -12,8 +12,8 @@
 # @version: 1.0
 #===============================================================================
 
-from movietrailer import launcher
-from movietrailer import media
+import launcher
+import media
 '''
 create  each instance of favorite movies available
 '''
