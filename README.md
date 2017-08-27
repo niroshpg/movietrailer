@@ -5,8 +5,10 @@ To run this project:
 
 Using command line:
 
-- clone project in a local directory : git clone https://github.com/niroshpg/movietrailer.git .
-- run commnad python movietrailer/mediacenter.py
+- clone project in a local directory 
+  - open command prompt and type following command
+  -  "git clone https://github.com/niroshpg/movietrailer.git ."
+- run commnad "python movietrailer/mediacenter.py"
 
 Using Elipse ( with PyDev and EGit):
 - Import porject from URL https://github.com/niroshpg/movietrailer.git 
