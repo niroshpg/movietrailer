@@ -10,6 +10,6 @@ Using command line:
 
 Using Elipse ( with PyDev and EGit):
 - Import porject from URL https://github.com/niroshpg/movietrailer.git 
- > use File -> Import -> Git -> Projects from Git
- > Use 'import using existing project' wizard
+  - use File -> Import -> Git -> Projects from Git
+  - Use 'import using existing project' wizard
 - run mediacenter.py
