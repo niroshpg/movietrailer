@@ -1,9 +1,9 @@
 <h1>
 # movietrailer
 </h1>
-This is a simple web site written in python to host list of movie trailors
-<br/>
-To run this project:
+<p>This is a simple web site written in python to host list of movie trailors</p>
+<br/><br/>
+<p>To run this project:</p>
 <h3>Using command line:</h3>
 <ul style="list-style-type:circle">
   <li>clone project in a local directory</li>
