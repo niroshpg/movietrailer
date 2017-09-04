@@ -7,12 +7,10 @@ To run this project:
 <h3>Using command line:</h3>
 <ul style="list-style-type:circle">
   <li>clone project in a local directory</li>
-  <li>open command prompt and type following command ( without quotes ):
+  <li>open command prompt and type following command ( without quotes ):</li>
     <ul style="list-style-type:circle">
-       "git clone https://github.com/niroshpg/movietrailer.git ."
+      <li>"git clone https://github.com/niroshpg/movietrailer.git ."</li>
     </ul>
- </li>
-  
   <li>run commnad ( without quotes ): "python movietrailer/mediacenter.py"</li>
 </ul>
 
