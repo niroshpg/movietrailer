@@ -8,7 +8,7 @@ To run this project:
 <ul style="list-style-type:circle">
   <li>clone project in a local directory</li>
   <li>open command prompt and type following command ( without quotes ):
-    <ul style="list-style-type:none">
+    <ul style="list-style-type:circle">
        "git clone https://github.com/niroshpg/movietrailer.git ."
     </ul>
  </li>
