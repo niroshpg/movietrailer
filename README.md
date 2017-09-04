@@ -2,7 +2,7 @@
 # movietrailer
 </h1>
 <p>This is a simple web site written in python to host list of movie trailors</p>
-<br/><br/>
+<br/>
 <p>To run this project:</p>
 <h3>Using command line:</h3>
 <ul style="list-style-type:circle">
